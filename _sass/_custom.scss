@@ -1,0 +1,52 @@
+
+
+
+body {
+  font-size : 12px;
+}
+
+h2, h3, h4, p{
+  margin-bottom: 5px;
+  -webkit-print-color-adjust: exact;
+}
+
+//section
+h2{
+  background-color: rgb(190, 190, 190);
+  margin-top: 15px;
+}
+
+//company
+h3{
+  font-weight: 600;
+}
+
+
+
+//project title
+h4{
+  font-weight: 600;
+ // background-color: darkgray;
+}
+
+.site-footer{
+  padding: 5px 0;
+}
+
+.footer-col {
+  margin-bottom: 0;
+}
+
+
+.footer-col-1 {
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
+  text-align: center;
+}
+
+.date {
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
+  text-align: center;
+
+}
