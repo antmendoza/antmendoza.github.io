@@ -74,9 +74,9 @@ Since the early stages of the projects, I have been involved in designing and de
 Stack: Java, Jboss Seam, JSP, JSF, jBPM, Drools, Jenkins, DbUnit, Mockito.
 
 
-### Junior Java Developer – Indra (02/2006 – 01/2017)                                                                                 Málaga, Spain
+### Junior Java Developer – Indra (July 2005 – February 2006)                                                                Málaga, Spain
 ---
-### Junior Java Developer – 3000 Informática (02/2006 – 01/2017)                                                            Murcia, Spain
+### Junior Java Developer – 3000 Informática (December 2004 – June 2005)                                                            Murcia, Spain
 ---
 
 
