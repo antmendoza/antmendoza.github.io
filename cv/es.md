@@ -6,7 +6,7 @@ permalink: /cv/es.html
 
 # Senior Software Engineer
 
-**Sobre me:**
+**Sobre mi:**
 
 Desarrollador de software con larga experiencia en el desarrollo de aplicaciones en Java y JavaScript / TypeScript. Intento producir código de calidad aplicando principios SOLID y TDD en mi día a día. Me encuentro cómodo desarrollando tanto en el frontend como en el backend, pero tengo preferencia por el backend. 
 
