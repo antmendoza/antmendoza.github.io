@@ -35,7 +35,12 @@ Discovering the open-source world by contributing to the [Serverless Workflow](h
 
 
 ## Professional Experience
-### Senior Software Engineer – Freelance (September 2021 - present) Remote (Barcelona, Spain)
+
+
+### Developer Sucess Engineer - https://temporal.io (July 2022 - present) Remote (Barcelona, Spain)
+---
+
+### Senior Software Engineer – Freelance (September 2021 - July 2022) Remote (Barcelona, Spain)
 ---
 Working across several projects mainly with Typescript, Java, jBPM and Camunda. 
 
@@ -43,13 +48,16 @@ Stack: Spring Boot, Java, TypeScript, Kafka, jBPM, Camunda.
 
 ### Senior Software Engineer – BIDEA AVANT (September 2018 - June 2021) Remote (Barcelona, Spain)
 ---
-I am part of a team of 6 developers, building products: to better manage the patient flow in hospitals, to optimise prioritisation of the patient waiting list and to optimise the resource utilisations.
+I was part of a team of 6 developers, building products: to better manage the patient flow in hospitals, to optimise prioritisation of the patient waiting list and to optimise the resource utilisations.
+
+In addiction to code, I worked closely with the product/sales team working with clients to better understand their needs.
 
 My main achievements include:
 - speeding up the development process by automating the setup of the local environment with Docker;
 - automating builds and deployments to a pre-production environment by setting up Jenkins and moving the infrastructure from on premise to AWS;
 - improving the base quality code by pushing the team to have code delivered with tests and perform code reviews;
-- improving the team organisation and focus by introducing agile methodologies and ensuring alignment between the product development and sales roadmaps.
+- improving the team organisation and focus by introducing agile methodologies and ensuring alignment between the product development and sales roadmaps;
+- running internal "meetups" to promote knowledge sharing across the team members.
 
 
 Stack: JavaScript, TypeScript, MongoDB, Node, Jasmine, Docker, Jenkins, Angular, Kafka.
